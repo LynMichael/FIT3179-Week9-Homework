@@ -1,0 +1,102 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+"height": 580,
+"padding": { "left": 14, "right": 6, "top": 22, "bottom": 8 },
+"title": {
+  "text": "Age-Standardised Death Rates in Australia by State (2023)",
+  "anchor": "start",
+  "fontSize": 16,
+  "fontWeight": "bold",
+  "offset": 8,
+  "subtitle": "Rate = deaths / population × 100,000 · Source: ABS (2023)",
+    "subtitleFontSize": 12
+
+},
+
+
+"projection": {
+  "type": "equirectangular",
+  "center": [134, -27],  
+  "scale": 880
+}
+,
+
+  "layer": [
+    {
+        "data": {
+            "url": "js/aus_states.json",
+            "format": { "type": "topojson", "feature": "STE_2021_AUST_GDA2020" }
+        },
+        "transform": [
+            {
+            "lookup": "properties.STE_NAME21",
+            "from": {
+                "data": { "url": "data/aus_death_2023_expanded.csv" },
+                "key": "STE_NAME21",
+                "fields": ["Deaths", "Region"]
+            }
+            },
+            
+            {
+            "lookup": "properties.STE_NAME21",
+            "from": {
+                "data": {
+                "values": [
+                    {"STE_NAME21":"New South Wales","Pop2023":8300000},
+                    {"STE_NAME21":"Victoria","Pop2023":6800000},
+                    {"STE_NAME21":"Queensland","Pop2023":5500000},
+                    {"STE_NAME21":"South Australia","Pop2023":1900000},
+                    {"STE_NAME21":"Western Australia","Pop2023":2900000},
+                    {"STE_NAME21":"Tasmania","Pop2023":570000},
+                    {"STE_NAME21":"Northern Territory","Pop2023":250000},
+                    {"STE_NAME21":"Australian Capital Territory","Pop2023":460000}
+                ]
+                },
+                "key": "STE_NAME21",
+                "fields": ["Pop2023"]
+            }
+            },
+
+            { "calculate": "datum.Pop2023 == null ? null : (datum.Deaths / datum.Pop2023) * 100000", "as": "Rate" },
+
+            { "filter": "isValid(datum.Rate)" }
+        ],
+        "mark": { "type": "geoshape", "stroke": "white", "strokeWidth": 0.6 },
+        "encoding": {
+            "color": {
+            "field": "Rate",
+            "type": "quantitative",
+            "title": "Deaths per 100,000 (2023)",
+            "scale": { "scheme": "blues" }
+            },
+            "tooltip": [
+            { "field": "properties.STE_NAME21", "title": "State/Territory" },
+            { "field": "Region", "title": "Abbrev" },
+            { "field": "Deaths", "title": "Deaths (2023)", "format": "," },
+            { "field": "Pop2023", "title": "Population (2023)", "format": "," },
+            { "field": "Rate", "title": "Rate per 100k", "format": ".1f" }
+            ]
+        }
+        }
+,
+    {
+      "data": { "graticule": { "step": [30, 30] } },
+      "mark": { "type": "geoshape", "stroke": "#888", "strokeWidth": 0.6 }
+    }
+,{
+  "data": {
+    "url": "js/ne_110m.json",
+    "format": { "type": "topojson", "feature": "ocean" }
+  },
+  "mark": { "type": "geoshape", "fill": "#eaf4fb", "stroke": null }
+}
+
+  ],
+
+  "config": {
+    "background": "#fafafa",
+    "view": { "stroke": null, "fill": "#eef6fb" },
+    "legend": { "titleFontSize": 12, "labelFontSize": 11 }
+  }
+}
