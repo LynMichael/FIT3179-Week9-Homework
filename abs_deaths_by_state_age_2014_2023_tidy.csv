@@ -1,0 +1,991 @@
+Age_group,Region,Year,Deaths
+Under 1 year,ACT,2014,14
+Under 1 year,ACT,2015,19
+Under 1 year,ACT,2016,23
+Under 1 year,ACT,2017,16
+Under 1 year,ACT,2018,17
+Under 1 year,ACT,2019,7
+Under 1 year,ACT,2020,14
+Under 1 year,ACT,2021,19
+Under 1 year,ACT,2022,19
+Under 1 year,ACT,2023,31
+Under 1 year,Aust.,2014,1049
+Under 1 year,Aust.,2015,977
+Under 1 year,Aust.,2016,969
+Under 1 year,Aust.,2017,1040
+Under 1 year,Aust.,2018,959
+Under 1 year,Aust.,2019,978
+Under 1 year,Aust.,2020,932
+Under 1 year,Aust.,2021,1000
+Under 1 year,Aust.,2022,943
+Under 1 year,Aust.,2023,918
+Under 1 year,NSW,2014,342
+Under 1 year,NSW,2015,307
+Under 1 year,NSW,2016,255
+Under 1 year,NSW,2017,324
+Under 1 year,NSW,2018,281
+Under 1 year,NSW,2019,341
+Under 1 year,NSW,2020,287
+Under 1 year,NSW,2021,320
+Under 1 year,NSW,2022,255
+Under 1 year,NSW,2023,241
+Under 1 year,NT,2014,22
+Under 1 year,NT,2015,27
+Under 1 year,NT,2016,30
+Under 1 year,NT,2017,36
+Under 1 year,NT,2018,35
+Under 1 year,NT,2019,25
+Under 1 year,NT,2020,32
+Under 1 year,NT,2021,30
+Under 1 year,NT,2022,27
+Under 1 year,NT,2023,24
+Under 1 year,Qld,2014,273
+Under 1 year,Qld,2015,256
+Under 1 year,Qld,2016,244
+Under 1 year,Qld,2017,255
+Under 1 year,Qld,2018,215
+Under 1 year,Qld,2019,247
+Under 1 year,Qld,2020,242
+Under 1 year,Qld,2021,244
+Under 1 year,Qld,2022,274
+Under 1 year,Qld,2023,277
+Under 1 year,SA,2014,60
+Under 1 year,SA,2015,55
+Under 1 year,SA,2016,60
+Under 1 year,SA,2017,59
+Under 1 year,SA,2018,66
+Under 1 year,SA,2019,44
+Under 1 year,SA,2020,41
+Under 1 year,SA,2021,54
+Under 1 year,SA,2022,60
+Under 1 year,SA,2023,45
+Under 1 year,Tas.,2014,31
+Under 1 year,Tas.,2015,22
+Under 1 year,Tas.,2016,26
+Under 1 year,Tas.,2017,21
+Under 1 year,Tas.,2018,22
+Under 1 year,Tas.,2019,18
+Under 1 year,Tas.,2020,20
+Under 1 year,Tas.,2021,21
+Under 1 year,Tas.,2022,15
+Under 1 year,Tas.,2023,24
+Under 1 year,Vic.,2014,221
+Under 1 year,Vic.,2015,200
+Under 1 year,Vic.,2016,215
+Under 1 year,Vic.,2017,243
+Under 1 year,Vic.,2018,234
+Under 1 year,Vic.,2019,214
+Under 1 year,Vic.,2020,220
+Under 1 year,Vic.,2021,238
+Under 1 year,Vic.,2022,197
+Under 1 year,Vic.,2023,189
+Under 1 year,WA,2014,86
+Under 1 year,WA,2015,90
+Under 1 year,WA,2016,115
+Under 1 year,WA,2017,85
+Under 1 year,WA,2018,89
+Under 1 year,WA,2019,82
+Under 1 year,WA,2020,76
+Under 1 year,WA,2021,74
+Under 1 year,WA,2022,94
+Under 1 year,WA,2023,86
+1-14 years,ACT,2014,5
+1-14 years,ACT,2015,7
+1-14 years,ACT,2016,6
+1-14 years,ACT,2017,8
+1-14 years,ACT,2018,13
+1-14 years,ACT,2019,5
+1-14 years,ACT,2020,2
+1-14 years,ACT,2021,2
+1-14 years,ACT,2022,10
+1-14 years,ACT,2023,5
+1-14 years,Aust.,2014,445
+1-14 years,Aust.,2015,470
+1-14 years,Aust.,2016,439
+1-14 years,Aust.,2017,452
+1-14 years,Aust.,2018,410
+1-14 years,Aust.,2019,432
+1-14 years,Aust.,2020,382
+1-14 years,Aust.,2021,428
+1-14 years,Aust.,2022,476
+1-14 years,Aust.,2023,460
+1-14 years,NSW,2014,133
+1-14 years,NSW,2015,136
+1-14 years,NSW,2016,148
+1-14 years,NSW,2017,138
+1-14 years,NSW,2018,141
+1-14 years,NSW,2019,126
+1-14 years,NSW,2020,125
+1-14 years,NSW,2021,122
+1-14 years,NSW,2022,138
+1-14 years,NSW,2023,124
+1-14 years,NT,2014,18
+1-14 years,NT,2015,12
+1-14 years,NT,2016,10
+1-14 years,NT,2017,12
+1-14 years,NT,2018,7
+1-14 years,NT,2019,10
+1-14 years,NT,2020,13
+1-14 years,NT,2021,11
+1-14 years,NT,2022,11
+1-14 years,NT,2023,13
+1-14 years,Qld,2014,101
+1-14 years,Qld,2015,119
+1-14 years,Qld,2016,104
+1-14 years,Qld,2017,101
+1-14 years,Qld,2018,87
+1-14 years,Qld,2019,98
+1-14 years,Qld,2020,93
+1-14 years,Qld,2021,104
+1-14 years,Qld,2022,119
+1-14 years,Qld,2023,115
+1-14 years,SA,2014,30
+1-14 years,SA,2015,31
+1-14 years,SA,2016,31
+1-14 years,SA,2017,38
+1-14 years,SA,2018,31
+1-14 years,SA,2019,29
+1-14 years,SA,2020,23
+1-14 years,SA,2021,29
+1-14 years,SA,2022,30
+1-14 years,SA,2023,41
+1-14 years,Tas.,2014,16
+1-14 years,Tas.,2015,5
+1-14 years,Tas.,2016,7
+1-14 years,Tas.,2017,9
+1-14 years,Tas.,2018,2
+1-14 years,Tas.,2019,7
+1-14 years,Tas.,2020,10
+1-14 years,Tas.,2021,13
+1-14 years,Tas.,2022,6
+1-14 years,Tas.,2023,9
+1-14 years,Vic.,2014,95
+1-14 years,Vic.,2015,106
+1-14 years,Vic.,2016,86
+1-14 years,Vic.,2017,93
+1-14 years,Vic.,2018,74
+1-14 years,Vic.,2019,110
+1-14 years,Vic.,2020,80
+1-14 years,Vic.,2021,86
+1-14 years,Vic.,2022,111
+1-14 years,Vic.,2023,107
+1-14 years,WA,2014,47
+1-14 years,WA,2015,54
+1-14 years,WA,2016,47
+1-14 years,WA,2017,53
+1-14 years,WA,2018,52
+1-14 years,WA,2019,47
+1-14 years,WA,2020,35
+1-14 years,WA,2021,58
+1-14 years,WA,2022,51
+1-14 years,WA,2023,46
+15-24 years,ACT,2014,15
+15-24 years,ACT,2015,16
+15-24 years,ACT,2016,13
+15-24 years,ACT,2017,24
+15-24 years,ACT,2018,21
+15-24 years,ACT,2019,22
+15-24 years,ACT,2020,18
+15-24 years,ACT,2021,19
+15-24 years,ACT,2022,29
+15-24 years,ACT,2023,14
+15-24 years,Aust.,2014,1096
+15-24 years,Aust.,2015,1145
+15-24 years,Aust.,2016,1146
+15-24 years,Aust.,2017,1172
+15-24 years,Aust.,2018,1167
+15-24 years,Aust.,2019,1249
+15-24 years,Aust.,2020,1183
+15-24 years,Aust.,2021,1151
+15-24 years,Aust.,2022,1136
+15-24 years,Aust.,2023,1115
+15-24 years,NSW,2014,334
+15-24 years,NSW,2015,311
+15-24 years,NSW,2016,335
+15-24 years,NSW,2017,364
+15-24 years,NSW,2018,348
+15-24 years,NSW,2019,372
+15-24 years,NSW,2020,342
+15-24 years,NSW,2021,326
+15-24 years,NSW,2022,321
+15-24 years,NSW,2023,307
+15-24 years,NT,2014,41
+15-24 years,NT,2015,33
+15-24 years,NT,2016,19
+15-24 years,NT,2017,39
+15-24 years,NT,2018,37
+15-24 years,NT,2019,36
+15-24 years,NT,2020,33
+15-24 years,NT,2021,39
+15-24 years,NT,2022,43
+15-24 years,NT,2023,20
+15-24 years,Qld,2014,251
+15-24 years,Qld,2015,276
+15-24 years,Qld,2016,252
+15-24 years,Qld,2017,263
+15-24 years,Qld,2018,284
+15-24 years,Qld,2019,279
+15-24 years,Qld,2020,284
+15-24 years,Qld,2021,284
+15-24 years,Qld,2022,252
+15-24 years,Qld,2023,273
+15-24 years,SA,2014,74
+15-24 years,SA,2015,68
+15-24 years,SA,2016,64
+15-24 years,SA,2017,89
+15-24 years,SA,2018,72
+15-24 years,SA,2019,79
+15-24 years,SA,2020,84
+15-24 years,SA,2021,87
+15-24 years,SA,2022,78
+15-24 years,SA,2023,66
+15-24 years,Tas.,2014,20
+15-24 years,Tas.,2015,41
+15-24 years,Tas.,2016,30
+15-24 years,Tas.,2017,26
+15-24 years,Tas.,2018,27
+15-24 years,Tas.,2019,25
+15-24 years,Tas.,2020,29
+15-24 years,Tas.,2021,20
+15-24 years,Tas.,2022,22
+15-24 years,Tas.,2023,22
+15-24 years,Vic.,2014,220
+15-24 years,Vic.,2015,244
+15-24 years,Vic.,2016,276
+15-24 years,Vic.,2017,238
+15-24 years,Vic.,2018,234
+15-24 years,Vic.,2019,297
+15-24 years,Vic.,2020,246
+15-24 years,Vic.,2021,249
+15-24 years,Vic.,2022,262
+15-24 years,Vic.,2023,272
+15-24 years,WA,2014,140
+15-24 years,WA,2015,156
+15-24 years,WA,2016,157
+15-24 years,WA,2017,129
+15-24 years,WA,2018,144
+15-24 years,WA,2019,139
+15-24 years,WA,2020,147
+15-24 years,WA,2021,127
+15-24 years,WA,2022,128
+15-24 years,WA,2023,141
+25-34 years,ACT,2014,32
+25-34 years,ACT,2015,19
+25-34 years,ACT,2016,24
+25-34 years,ACT,2017,24
+25-34 years,ACT,2018,27
+25-34 years,ACT,2019,28
+25-34 years,ACT,2020,33
+25-34 years,ACT,2021,33
+25-34 years,ACT,2022,27
+25-34 years,ACT,2023,38
+25-34 years,Aust.,2014,1908
+25-34 years,Aust.,2015,1943
+25-34 years,Aust.,2016,2041
+25-34 years,Aust.,2017,1992
+25-34 years,Aust.,2018,1910
+25-34 years,Aust.,2019,1982
+25-34 years,Aust.,2020,2037
+25-34 years,Aust.,2021,1959
+25-34 years,Aust.,2022,2006
+25-34 years,Aust.,2023,2002
+25-34 years,NSW,2014,521
+25-34 years,NSW,2015,547
+25-34 years,NSW,2016,568
+25-34 years,NSW,2017,547
+25-34 years,NSW,2018,526
+25-34 years,NSW,2019,578
+25-34 years,NSW,2020,556
+25-34 years,NSW,2021,548
+25-34 years,NSW,2022,553
+25-34 years,NSW,2023,529
+25-34 years,NT,2014,57
+25-34 years,NT,2015,59
+25-34 years,NT,2016,47
+25-34 years,NT,2017,59
+25-34 years,NT,2018,53
+25-34 years,NT,2019,58
+25-34 years,NT,2020,45
+25-34 years,NT,2021,49
+25-34 years,NT,2022,58
+25-34 years,NT,2023,47
+25-34 years,Qld,2014,414
+25-34 years,Qld,2015,445
+25-34 years,Qld,2016,422
+25-34 years,Qld,2017,454
+25-34 years,Qld,2018,442
+25-34 years,Qld,2019,419
+25-34 years,Qld,2020,459
+25-34 years,Qld,2021,425
+25-34 years,Qld,2022,412
+25-34 years,Qld,2023,449
+25-34 years,SA,2014,135
+25-34 years,SA,2015,126
+25-34 years,SA,2016,145
+25-34 years,SA,2017,140
+25-34 years,SA,2018,130
+25-34 years,SA,2019,131
+25-34 years,SA,2020,133
+25-34 years,SA,2021,139
+25-34 years,SA,2022,147
+25-34 years,SA,2023,106
+25-34 years,Tas.,2014,46
+25-34 years,Tas.,2015,41
+25-34 years,Tas.,2016,45
+25-34 years,Tas.,2017,46
+25-34 years,Tas.,2018,38
+25-34 years,Tas.,2019,45
+25-34 years,Tas.,2020,40
+25-34 years,Tas.,2021,38
+25-34 years,Tas.,2022,44
+25-34 years,Tas.,2023,42
+25-34 years,Vic.,2014,453
+25-34 years,Vic.,2015,431
+25-34 years,Vic.,2016,498
+25-34 years,Vic.,2017,465
+25-34 years,Vic.,2018,453
+25-34 years,Vic.,2019,467
+25-34 years,Vic.,2020,507
+25-34 years,Vic.,2021,490
+25-34 years,Vic.,2022,505
+25-34 years,Vic.,2023,547
+25-34 years,WA,2014,249
+25-34 years,WA,2015,273
+25-34 years,WA,2016,292
+25-34 years,WA,2017,257
+25-34 years,WA,2018,241
+25-34 years,WA,2019,255
+25-34 years,WA,2020,264
+25-34 years,WA,2021,237
+25-34 years,WA,2022,260
+25-34 years,WA,2023,243
+35-44 years,ACT,2014,54
+35-44 years,ACT,2015,46
+35-44 years,ACT,2016,58
+35-44 years,ACT,2017,60
+35-44 years,ACT,2018,51
+35-44 years,ACT,2019,61
+35-44 years,ACT,2020,66
+35-44 years,ACT,2021,57
+35-44 years,ACT,2022,71
+35-44 years,ACT,2023,48
+35-44 years,Aust.,2014,3498
+35-44 years,Aust.,2015,3538
+35-44 years,Aust.,2016,3471
+35-44 years,Aust.,2017,3527
+35-44 years,Aust.,2018,3302
+35-44 years,Aust.,2019,3389
+35-44 years,Aust.,2020,3269
+35-44 years,Aust.,2021,3240
+35-44 years,Aust.,2022,3616
+35-44 years,Aust.,2023,3497
+35-44 years,NSW,2014,1059
+35-44 years,NSW,2015,1028
+35-44 years,NSW,2016,942
+35-44 years,NSW,2017,1015
+35-44 years,NSW,2018,949
+35-44 years,NSW,2019,1015
+35-44 years,NSW,2020,916
+35-44 years,NSW,2021,914
+35-44 years,NSW,2022,1044
+35-44 years,NSW,2023,962
+35-44 years,NT,2014,92
+35-44 years,NT,2015,103
+35-44 years,NT,2016,68
+35-44 years,NT,2017,74
+35-44 years,NT,2018,75
+35-44 years,NT,2019,76
+35-44 years,NT,2020,59
+35-44 years,NT,2021,61
+35-44 years,NT,2022,92
+35-44 years,NT,2023,76
+35-44 years,Qld,2014,709
+35-44 years,Qld,2015,788
+35-44 years,Qld,2016,759
+35-44 years,Qld,2017,783
+35-44 years,Qld,2018,734
+35-44 years,Qld,2019,670
+35-44 years,Qld,2020,749
+35-44 years,Qld,2021,748
+35-44 years,Qld,2022,788
+35-44 years,Qld,2023,778
+35-44 years,SA,2014,275
+35-44 years,SA,2015,250
+35-44 years,SA,2016,246
+35-44 years,SA,2017,243
+35-44 years,SA,2018,205
+35-44 years,SA,2019,256
+35-44 years,SA,2020,234
+35-44 years,SA,2021,242
+35-44 years,SA,2022,253
+35-44 years,SA,2023,245
+35-44 years,Tas.,2014,77
+35-44 years,Tas.,2015,74
+35-44 years,Tas.,2016,82
+35-44 years,Tas.,2017,80
+35-44 years,Tas.,2018,87
+35-44 years,Tas.,2019,72
+35-44 years,Tas.,2020,75
+35-44 years,Tas.,2021,69
+35-44 years,Tas.,2022,71
+35-44 years,Tas.,2023,75
+35-44 years,Vic.,2014,794
+35-44 years,Vic.,2015,818
+35-44 years,Vic.,2016,872
+35-44 years,Vic.,2017,839
+35-44 years,Vic.,2018,800
+35-44 years,Vic.,2019,817
+35-44 years,Vic.,2020,767
+35-44 years,Vic.,2021,770
+35-44 years,Vic.,2022,847
+35-44 years,Vic.,2023,855
+35-44 years,WA,2014,438
+35-44 years,WA,2015,431
+35-44 years,WA,2016,444
+35-44 years,WA,2017,431
+35-44 years,WA,2018,401
+35-44 years,WA,2019,420
+35-44 years,WA,2020,402
+35-44 years,WA,2021,379
+35-44 years,WA,2022,450
+35-44 years,WA,2023,458
+45-54 years,ACT,2014,84
+45-54 years,ACT,2015,87
+45-54 years,ACT,2016,106
+45-54 years,ACT,2017,87
+45-54 years,ACT,2018,104
+45-54 years,ACT,2019,84
+45-54 years,ACT,2020,97
+45-54 years,ACT,2021,99
+45-54 years,ACT,2022,103
+45-54 years,ACT,2023,113
+45-54 years,Aust.,2014,7044
+45-54 years,Aust.,2015,7248
+45-54 years,Aust.,2016,7155
+45-54 years,Aust.,2017,7244
+45-54 years,Aust.,2018,6916
+45-54 years,Aust.,2019,6967
+45-54 years,Aust.,2020,6936
+45-54 years,Aust.,2021,6943
+45-54 years,Aust.,2022,7451
+45-54 years,Aust.,2023,7225
+45-54 years,NSW,2014,2310
+45-54 years,NSW,2015,2321
+45-54 years,NSW,2016,2249
+45-54 years,NSW,2017,2253
+45-54 years,NSW,2018,2040
+45-54 years,NSW,2019,2130
+45-54 years,NSW,2020,2111
+45-54 years,NSW,2021,2137
+45-54 years,NSW,2022,2199
+45-54 years,NSW,2023,2137
+45-54 years,NT,2014,167
+45-54 years,NT,2015,138
+45-54 years,NT,2016,150
+45-54 years,NT,2017,135
+45-54 years,NT,2018,151
+45-54 years,NT,2019,127
+45-54 years,NT,2020,131
+45-54 years,NT,2021,141
+45-54 years,NT,2022,149
+45-54 years,NT,2023,154
+45-54 years,Qld,2014,1396
+45-54 years,Qld,2015,1464
+45-54 years,Qld,2016,1460
+45-54 years,Qld,2017,1483
+45-54 years,Qld,2018,1477
+45-54 years,Qld,2019,1394
+45-54 years,Qld,2020,1476
+45-54 years,Qld,2021,1460
+45-54 years,Qld,2022,1606
+45-54 years,Qld,2023,1547
+45-54 years,SA,2014,564
+45-54 years,SA,2015,594
+45-54 years,SA,2016,567
+45-54 years,SA,2017,606
+45-54 years,SA,2018,557
+45-54 years,SA,2019,582
+45-54 years,SA,2020,549
+45-54 years,SA,2021,545
+45-54 years,SA,2022,517
+45-54 years,SA,2023,547
+45-54 years,Tas.,2014,207
+45-54 years,Tas.,2015,190
+45-54 years,Tas.,2016,212
+45-54 years,Tas.,2017,184
+45-54 years,Tas.,2018,181
+45-54 years,Tas.,2019,216
+45-54 years,Tas.,2020,175
+45-54 years,Tas.,2021,182
+45-54 years,Tas.,2022,208
+45-54 years,Tas.,2023,203
+45-54 years,Vic.,2014,1599
+45-54 years,Vic.,2015,1641
+45-54 years,Vic.,2016,1694
+45-54 years,Vic.,2017,1683
+45-54 years,Vic.,2018,1635
+45-54 years,Vic.,2019,1662
+45-54 years,Vic.,2020,1649
+45-54 years,Vic.,2021,1667
+45-54 years,Vic.,2022,1851
+45-54 years,Vic.,2023,1721
+45-54 years,WA,2014,717
+45-54 years,WA,2015,812
+45-54 years,WA,2016,715
+45-54 years,WA,2017,812
+45-54 years,WA,2018,771
+45-54 years,WA,2019,771
+45-54 years,WA,2020,747
+45-54 years,WA,2021,711
+45-54 years,WA,2022,814
+45-54 years,WA,2023,803
+55-64 years,ACT,2014,184
+55-64 years,ACT,2015,197
+55-64 years,ACT,2016,170
+55-64 years,ACT,2017,183
+55-64 years,ACT,2018,200
+55-64 years,ACT,2019,188
+55-64 years,ACT,2020,155
+55-64 years,ACT,2021,189
+55-64 years,ACT,2022,200
+55-64 years,ACT,2023,187
+55-64 years,Aust.,2014,13734
+55-64 years,Aust.,2015,13847
+55-64 years,Aust.,2016,13847
+55-64 years,Aust.,2017,14030
+55-64 years,Aust.,2018,14345
+55-64 years,Aust.,2019,14524
+55-64 years,Aust.,2020,14219
+55-64 years,Aust.,2021,14405
+55-64 years,Aust.,2022,15473
+55-64 years,Aust.,2023,14701
+55-64 years,NSW,2014,4526
+55-64 years,NSW,2015,4598
+55-64 years,NSW,2016,4590
+55-64 years,NSW,2017,4559
+55-64 years,NSW,2018,4666
+55-64 years,NSW,2019,4752
+55-64 years,NSW,2020,4650
+55-64 years,NSW,2021,4493
+55-64 years,NSW,2022,4933
+55-64 years,NSW,2023,4579
+55-64 years,NT,2014,222
+55-64 years,NT,2015,221
+55-64 years,NT,2016,180
+55-64 years,NT,2017,236
+55-64 years,NT,2018,215
+55-64 years,NT,2019,179
+55-64 years,NT,2020,187
+55-64 years,NT,2021,217
+55-64 years,NT,2022,246
+55-64 years,NT,2023,199
+55-64 years,Qld,2014,2786
+55-64 years,Qld,2015,2763
+55-64 years,Qld,2016,2782
+55-64 years,Qld,2017,2871
+55-64 years,Qld,2018,2957
+55-64 years,Qld,2019,3037
+55-64 years,Qld,2020,2924
+55-64 years,Qld,2021,3074
+55-64 years,Qld,2022,3298
+55-64 years,Qld,2023,3236
+55-64 years,SA,2014,1124
+55-64 years,SA,2015,1130
+55-64 years,SA,2016,1119
+55-64 years,SA,2017,1171
+55-64 years,SA,2018,1190
+55-64 years,SA,2019,1183
+55-64 years,SA,2020,1166
+55-64 years,SA,2021,1156
+55-64 years,SA,2022,1267
+55-64 years,SA,2023,1243
+55-64 years,Tas.,2014,428
+55-64 years,Tas.,2015,435
+55-64 years,Tas.,2016,449
+55-64 years,Tas.,2017,473
+55-64 years,Tas.,2018,388
+55-64 years,Tas.,2019,436
+55-64 years,Tas.,2020,409
+55-64 years,Tas.,2021,422
+55-64 years,Tas.,2022,452
+55-64 years,Tas.,2023,389
+55-64 years,Vic.,2014,3163
+55-64 years,Vic.,2015,3090
+55-64 years,Vic.,2016,3200
+55-64 years,Vic.,2017,3230
+55-64 years,Vic.,2018,3293
+55-64 years,Vic.,2019,3328
+55-64 years,Vic.,2020,3330
+55-64 years,Vic.,2021,3432
+55-64 years,Vic.,2022,3555
+55-64 years,Vic.,2023,3459
+55-64 years,WA,2014,1301
+55-64 years,WA,2015,1413
+55-64 years,WA,2016,1356
+55-64 years,WA,2017,1304
+55-64 years,WA,2018,1434
+55-64 years,WA,2019,1419
+55-64 years,WA,2020,1397
+55-64 years,WA,2021,1422
+55-64 years,WA,2022,1518
+55-64 years,WA,2023,1407
+65-74 years,ACT,2014,274
+65-74 years,ACT,2015,283
+65-74 years,ACT,2016,309
+65-74 years,ACT,2017,304
+65-74 years,ACT,2018,294
+65-74 years,ACT,2019,274
+65-74 years,ACT,2020,368
+65-74 years,ACT,2021,314
+65-74 years,ACT,2022,403
+65-74 years,ACT,2023,325
+65-74 years,Aust.,2014,23984
+65-74 years,Aust.,2015,24199
+65-74 years,Aust.,2016,24936
+65-74 years,Aust.,2017,26197
+65-74 years,Aust.,2018,25675
+65-74 years,Aust.,2019,26331
+65-74 years,Aust.,2020,26389
+65-74 years,Aust.,2021,27641
+65-74 years,Aust.,2022,29635
+65-74 years,Aust.,2023,28500
+65-74 years,NSW,2014,8089
+65-74 years,NSW,2015,8106
+65-74 years,NSW,2016,8289
+65-74 years,NSW,2017,8676
+65-74 years,NSW,2018,8415
+65-74 years,NSW,2019,8698
+65-74 years,NSW,2020,8516
+65-74 years,NSW,2021,8959
+65-74 years,NSW,2022,9606
+65-74 years,NSW,2023,9099
+65-74 years,NT,2014,243
+65-74 years,NT,2015,201
+65-74 years,NT,2016,249
+65-74 years,NT,2017,221
+65-74 years,NT,2018,225
+65-74 years,NT,2019,247
+65-74 years,NT,2020,287
+65-74 years,NT,2021,260
+65-74 years,NT,2022,282
+65-74 years,NT,2023,301
+65-74 years,Qld,2014,4799
+65-74 years,Qld,2015,4988
+65-74 years,Qld,2016,5133
+65-74 years,Qld,2017,5426
+65-74 years,Qld,2018,5418
+65-74 years,Qld,2019,5655
+65-74 years,Qld,2020,5473
+65-74 years,Qld,2021,5827
+65-74 years,Qld,2022,6169
+65-74 years,Qld,2023,6136
+65-74 years,SA,2014,1862
+65-74 years,SA,2015,1924
+65-74 years,SA,2016,1965
+65-74 years,SA,2017,2151
+65-74 years,SA,2018,2106
+65-74 years,SA,2019,2094
+65-74 years,SA,2020,2134
+65-74 years,SA,2021,2211
+65-74 years,SA,2022,2399
+65-74 years,SA,2023,2303
+65-74 years,Tas.,2014,757
+65-74 years,Tas.,2015,812
+65-74 years,Tas.,2016,837
+65-74 years,Tas.,2017,867
+65-74 years,Tas.,2018,737
+65-74 years,Tas.,2019,823
+65-74 years,Tas.,2020,814
+65-74 years,Tas.,2021,868
+65-74 years,Tas.,2022,952
+65-74 years,Tas.,2023,845
+65-74 years,Vic.,2014,5741
+65-74 years,Vic.,2015,5662
+65-74 years,Vic.,2016,5833
+65-74 years,Vic.,2017,6185
+65-74 years,Vic.,2018,6117
+65-74 years,Vic.,2019,6165
+65-74 years,Vic.,2020,6278
+65-74 years,Vic.,2021,6617
+65-74 years,Vic.,2022,7060
+65-74 years,Vic.,2023,6702
+65-74 years,WA,2014,2217
+65-74 years,WA,2015,2221
+65-74 years,WA,2016,2316
+65-74 years,WA,2017,2362
+65-74 years,WA,2018,2359
+65-74 years,WA,2019,2368
+65-74 years,WA,2020,2516
+65-74 years,WA,2021,2583
+65-74 years,WA,2022,2759
+65-74 years,WA,2023,2785
+75-84 years,ACT,2014,447
+75-84 years,ACT,2015,442
+75-84 years,ACT,2016,525
+75-84 years,ACT,2017,537
+75-84 years,ACT,2018,538
+75-84 years,ACT,2019,518
+75-84 years,ACT,2020,554
+75-84 years,ACT,2021,596
+75-84 years,ACT,2022,675
+75-84 years,ACT,2023,736
+75-84 years,Aust.,2014,40480
+75-84 years,Aust.,2015,40552
+75-84 years,Aust.,2016,40786
+75-84 years,Aust.,2017,41896
+75-84 years,Aust.,2018,40574
+75-84 years,Aust.,2019,42250
+75-84 years,Aust.,2020,42271
+75-84 years,Aust.,2021,45351
+75-84 years,Aust.,2022,51535
+75-84 years,Aust.,2023,50671
+75-84 years,NSW,2014,13914
+75-84 years,NSW,2015,13730
+75-84 years,NSW,2016,13812
+75-84 years,NSW,2017,14354
+75-84 years,NSW,2018,13529
+75-84 years,NSW,2019,14080
+75-84 years,NSW,2020,13983
+75-84 years,NSW,2021,14950
+75-84 years,NSW,2022,17035
+75-84 years,NSW,2023,16569
+75-84 years,NT,2014,176
+75-84 years,NT,2015,208
+75-84 years,NT,2016,200
+75-84 years,NT,2017,184
+75-84 years,NT,2018,233
+75-84 years,NT,2019,210
+75-84 years,NT,2020,224
+75-84 years,NT,2021,258
+75-84 years,NT,2022,277
+75-84 years,NT,2023,247
+75-84 years,Qld,2014,7436
+75-84 years,Qld,2015,7619
+75-84 years,Qld,2016,7560
+75-84 years,Qld,2017,8094
+75-84 years,Qld,2018,7961
+75-84 years,Qld,2019,8363
+75-84 years,Qld,2020,8570
+75-84 years,Qld,2021,9256
+75-84 years,Qld,2022,10745
+75-84 years,Qld,2023,10538
+75-84 years,SA,2014,3480
+75-84 years,SA,2015,3472
+75-84 years,SA,2016,3308
+75-84 years,SA,2017,3460
+75-84 years,SA,2018,3470
+75-84 years,SA,2019,3463
+75-84 years,SA,2020,3557
+75-84 years,SA,2021,3636
+75-84 years,SA,2022,4240
+75-84 years,SA,2023,4174
+75-84 years,Tas.,2014,1254
+75-84 years,Tas.,2015,1280
+75-84 years,Tas.,2016,1240
+75-84 years,Tas.,2017,1227
+75-84 years,Tas.,2018,1164
+75-84 years,Tas.,2019,1269
+75-84 years,Tas.,2020,1187
+75-84 years,Tas.,2021,1357
+75-84 years,Tas.,2022,1449
+75-84 years,Tas.,2023,1545
+75-84 years,Vic.,2014,10261
+75-84 years,Vic.,2015,10174
+75-84 years,Vic.,2016,10421
+75-84 years,Vic.,2017,10388
+75-84 years,Vic.,2018,9979
+75-84 years,Vic.,2019,10578
+75-84 years,Vic.,2020,10438
+75-84 years,Vic.,2021,11134
+75-84 years,Vic.,2022,12565
+75-84 years,Vic.,2023,12193
+75-84 years,WA,2014,3511
+75-84 years,WA,2015,3627
+75-84 years,WA,2016,3716
+75-84 years,WA,2017,3642
+75-84 years,WA,2018,3689
+75-84 years,WA,2019,3766
+75-84 years,WA,2020,3750
+75-84 years,WA,2021,4153
+75-84 years,WA,2022,4543
+75-84 years,WA,2023,4658
+85 years and over,ACT,2014,726
+85 years and over,ACT,2015,736
+85 years and over,ACT,2016,835
+85 years and over,ACT,2017,845
+85 years and over,ACT,2018,868
+85 years and over,ACT,2019,878
+85 years and over,ACT,2020,847
+85 years and over,ACT,2021,846
+85 years and over,ACT,2022,1057
+85 years and over,ACT,2023,969
+85 years and over,Aust.,2014,61134
+85 years and over,Aust.,2015,63531
+85 years and over,Aust.,2016,64439
+85 years and over,Aust.,2017,66817
+85 years and over,Aust.,2018,64228
+85 years and over,Aust.,2019,66733
+85 years and over,Aust.,2020,65087
+85 years and over,Aust.,2021,70062
+85 years and over,Aust.,2022,79247
+85 years and over,Aust.,2023,73936
+85 years and over,NSW,2014,21164
+85 years and over,NSW,2015,21960
+85 years and over,NSW,2016,22086
+85 years and over,NSW,2017,23130
+85 years and over,NSW,2018,21892
+85 years and over,NSW,2019,22719
+85 years and over,NSW,2020,21802
+85 years and over,NSW,2021,23545
+85 years and over,NSW,2022,27022
+85 years and over,NSW,2023,24573
+85 years and over,NT,2014,111
+85 years and over,NT,2015,125
+85 years and over,NT,2016,105
+85 years and over,NT,2017,122
+85 years and over,NT,2018,133
+85 years and over,NT,2019,162
+85 years and over,NT,2020,136
+85 years and over,NT,2021,155
+85 years and over,NT,2022,188
+85 years and over,NT,2023,148
+85 years and over,Qld,2014,10608
+85 years and over,Qld,2015,11061
+85 years and over,Qld,2016,11208
+85 years and over,Qld,2017,11792
+85 years and over,Qld,2018,11431
+85 years and over,Qld,2019,11921
+85 years and over,Qld,2020,11485
+85 years and over,Qld,2021,12660
+85 years and over,Qld,2022,14564
+85 years and over,Qld,2023,13792
+85 years and over,SA,2014,5780
+85 years and over,SA,2015,5890
+85 years and over,SA,2016,5916
+85 years and over,SA,2017,6089
+85 years and over,SA,2018,5780
+85 years and over,SA,2019,6093
+85 years and over,SA,2020,5869
+85 years and over,SA,2021,6284
+85 years and over,SA,2022,6941
+85 years and over,SA,2023,6604
+85 years and over,Tas.,2014,1618
+85 years and over,Tas.,2015,1740
+85 years and over,Tas.,2016,1659
+85 years and over,Tas.,2017,1857
+85 years and over,Tas.,2018,1639
+85 years and over,Tas.,2019,1720
+85 years and over,Tas.,2020,1665
+85 years and over,Tas.,2021,1824
+85 years and over,Tas.,2022,1930
+85 years and over,Tas.,2023,1986
+85 years and over,Vic.,2014,16101
+85 years and over,Vic.,2015,16619
+85 years and over,Vic.,2016,16842
+85 years and over,Vic.,2017,17509
+85 years and over,Vic.,2018,17015
+85 years and over,Vic.,2019,17448
+85 years and over,Vic.,2020,17544
+85 years and over,Vic.,2021,18385
+85 years and over,Vic.,2022,20701
+85 years and over,Vic.,2023,18895
+85 years and over,WA,2014,5024
+85 years and over,WA,2015,5398
+85 years and over,WA,2016,5786
+85 years and over,WA,2017,5462
+85 years and over,WA,2018,5463
+85 years and over,WA,2019,5781
+85 years and over,WA,2020,5734
+85 years and over,WA,2021,6350
+85 years and over,WA,2022,6840
+85 years and over,WA,2023,6959
+All persons,ACT,2014,1835
+All persons,ACT,2015,1852
+All persons,ACT,2016,2069
+All persons,ACT,2017,2088
+All persons,ACT,2018,2133
+All persons,ACT,2019,2065
+All persons,ACT,2020,2155
+All persons,ACT,2021,2176
+All persons,ACT,2022,2594
+All persons,ACT,2023,2466
+All persons,Aust.,2014,154383
+All persons,Aust.,2015,157451
+All persons,Aust.,2016,159232
+All persons,Aust.,2017,164371
+All persons,Aust.,2018,159488
+All persons,Aust.,2019,164837
+All persons,Aust.,2020,162709
+All persons,Aust.,2021,172181
+All persons,Aust.,2022,191519
+All persons,Aust.,2023,183027
+All persons,NSW,2014,52396
+All persons,NSW,2015,53044
+All persons,NSW,2016,53275
+All persons,NSW,2017,55361
+All persons,NSW,2018,52787
+All persons,NSW,2019,54812
+All persons,NSW,2020,53290
+All persons,NSW,2021,56314
+All persons,NSW,2022,63106
+All persons,NSW,2023,59121
+All persons,NT,2014,1149
+All persons,NT,2015,1127
+All persons,NT,2016,1059
+All persons,NT,2017,1118
+All persons,NT,2018,1164
+All persons,NT,2019,1130
+All persons,NT,2020,1147
+All persons,NT,2021,1221
+All persons,NT,2022,1373
+All persons,NT,2023,1229
+All persons,Qld,2014,28776
+All persons,Qld,2015,29779
+All persons,Qld,2016,29924
+All persons,Qld,2017,31522
+All persons,Qld,2018,31006
+All persons,Qld,2019,32083
+All persons,Qld,2020,31755
+All persons,Qld,2021,34082
+All persons,Qld,2022,38227
+All persons,Qld,2023,37141
+All persons,SA,2014,13386
+All persons,SA,2015,13540
+All persons,SA,2016,13421
+All persons,SA,2017,14046
+All persons,SA,2018,13607
+All persons,SA,2019,13954
+All persons,SA,2020,13791
+All persons,SA,2021,14383
+All persons,SA,2022,15933
+All persons,SA,2023,15374
+All persons,Tas.,2014,4456
+All persons,Tas.,2015,4640
+All persons,Tas.,2016,4588
+All persons,Tas.,2017,4790
+All persons,Tas.,2018,4287
+All persons,Tas.,2019,4631
+All persons,Tas.,2020,4424
+All persons,Tas.,2021,4814
+All persons,Tas.,2022,5149
+All persons,Tas.,2023,5140
+All persons,Vic.,2014,38648
+All persons,Vic.,2015,38985
+All persons,Vic.,2016,39937
+All persons,Vic.,2017,40875
+All persons,Vic.,2018,39834
+All persons,Vic.,2019,41086
+All persons,Vic.,2020,41059
+All persons,Vic.,2021,43068
+All persons,Vic.,2022,47654
+All persons,Vic.,2023,44940
+All persons,WA,2014,13730
+All persons,WA,2015,14476
+All persons,WA,2016,14944
+All persons,WA,2017,14538
+All persons,WA,2018,14645
+All persons,WA,2019,15049
+All persons,WA,2020,15069
+All persons,WA,2021,16095
+All persons,WA,2022,17457
+All persons,WA,2023,17587
